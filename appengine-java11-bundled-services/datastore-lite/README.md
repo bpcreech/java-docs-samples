@@ -1,10 +1,10 @@
-# Google Cloud Datastore Sample for App Engine Standard Java11 Bundled Services
+# Google Cloud Datastore Sample for App Engine Standard Java11 Bundled Services with "Lite" runtime
 
 <a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/GoogleCloudPlatform/java-docs-samples&page=editor&open_in_editor=appengine-java11-bundled-services/datastore/README.md">
 <img alt="Open in Cloud Shell" src ="http://gstatic.com/cloudssh/images/open-btn.png"></a>
 
 This sample demonstrates how to use [Google Cloud Datastore][java-datastore]
-from [Google App Engine standard Java11 bundled services environment][ae-docs].
+from [Google App Engine standard Java11 bundled services environment][ae-docs] with the Lite runtime.
 
 [java-datastore]: https://cloud.google.com/appengine/docs/java/datastore/
 [ae-docs]: https://cloud.google.com/appengine/docs/standard/java11/services/access
